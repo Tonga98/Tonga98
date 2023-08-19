@@ -13,7 +13,7 @@
 
 - [Wizard](https://github.com/Tonga98/Wizard): Aplicacion web para la gestion del personal y camionetas de una empresa de transporte.
 - [Tienda de remeras](https://github.com/Tonga98/Tienda-Remeras): Aplicacion web sobre una tienda de remeras con carrito, pedidos, etc.
-- [Blog-videojuegos](https://github.com/Tonga98/Blog-videojuegos): Aplicacin web tipica sobre un blog con sesiones, post, buscador.
+- [Blog-videojuegos](https://github.com/Tonga98/Blog-videojuegos): Aplicacion web tipica sobre un blog con sesiones, post, buscador.
 - ...
 
 ## Mis Metas
