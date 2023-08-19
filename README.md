@@ -11,8 +11,8 @@
 
 ## Mis Proyectos
 
-- [Nombre del Proyecto 1](enlace al repositorio): Breve descripción del proyecto.
-- [Nombre del Proyecto 2](enlace al repositorio): Breve descripción del proyecto.
+- [Wizard](https://github.com/Tonga98/Wizard): Aplicacion web para la gestion del personal y camionetas de una empresa de transporte.
+- [Tienda de remeras](https://github.com/Tonga98/Tienda-Remeras): Aplicacion web sobre una tienda de remeras con carrito, pedidos, etc.
 - ...
 
 ## Mis Metas
