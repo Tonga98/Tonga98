@@ -24,6 +24,6 @@
 ## Cómo Contactarme
 
 - Email: gaston.pojma@hotmail.com
-- Twitter: [@TuUsuarioTwitter](enlace a Twitter)
+- Twitter: https://twitter.com/i/flow/login?redirect_after_login=%2FGastonPojma
 
 ¡No dudes en contactarme si tienes preguntas o sugerencias!
