@@ -9,10 +9,11 @@
 - Además de mi formación en el curso, también he adquirido conocimientos en Java a través de mis estudios en la universidad.
 - Estoy interesado en enfocarme en el desarrollo backend y seguir aprendiendo y mejorando mis habilidades en esta área.
 
-## Mis Proyectos
+## Proyectos Destacados
 
 - [Wizard](https://github.com/Tonga98/Wizard): Aplicacion web para la gestion del personal y camionetas de una empresa de transporte.
 - [Tienda de remeras](https://github.com/Tonga98/Tienda-Remeras): Aplicacion web sobre una tienda de remeras con carrito, pedidos, etc.
+- [Blog-videojuegos](https://github.com/Tonga98/Blog-videojuegos): Aplicacin web tipica sobre un blog con sesiones, post, buscador.
 - ...
 
 ## Mis Metas
