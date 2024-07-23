@@ -4,10 +4,11 @@
 
 ## Mis Habilidades y Experiencia
 
-- Completé un Master en Udemy sobre PHP, POO, MVC, SQL y Laravel, que me proporcionó una base sólida en el desarrollo web moderno.
-- Tengo experiencia trabajando con tecnologías como PHP, Laravel, Eloquent, Tailwind CSS y bases de datos SQL Relacionales.
+- Completé un Master en Udemy sobre PHP, MVC, MySQL y Laravel, que me proporcionó una base sólida en el desarrollo web moderno.
+- Tengo experiencia trabajando con tecnologías como PHP, Laravel, Tailwind CSS y bases de datos SQL Relacionales.
 - Además de mi formación en el curso, también he adquirido conocimientos en Java a través de mis estudios en la universidad.
 - Estoy interesado en enfocarme en el desarrollo backend y seguir aprendiendo y mejorando mis habilidades en esta área.
+- Actualmente estoy mejorando mis habilidades en Vue.js.
 
 ## Proyectos Destacados
 
@@ -25,6 +26,6 @@
 ## Cómo Contactarme
 
 - Email: gaston.pojma@hotmail.com
-- Twitter: https://twitter.com/i/flow/login?redirect_after_login=%2FGastonPojma
+- LinkedIn: https://www.linkedin.com/in/gaston-pojmaevich/
 
 ¡No dudes en contactarme si tienes preguntas o sugerencias!
